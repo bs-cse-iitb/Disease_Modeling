@@ -1,3 +1,3 @@
 # CS694 Seminar
 
-# Topics -  Deasese Modeling and Group Testing
+# Topics -  Desease Modeling and Group Testing
